@@ -1,4 +1,4 @@
-# Energy Consumption Data Analysis & Visualization India (2019-2020)
+# PowerPulse: Analyzing India'sEnergy Trends (2019-2020)
 
 This project presents an in-depth analysis of electricity consumption across major Indian states during the years 2019 and 2020. It highlights consumption patterns, regional differences, seasonal variations, and the effects of the COVID-19 lockdown on energy demand.  
 (All insights are based on the project PDF.)
